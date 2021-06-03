@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lillys strange and wonderful prognostication being a relation of many universal accidents that will come to pass in this year, 1681, according to the significations of the celestial bodies, as well in this our English nation, as in parts beyond the seas : with a sober caution to all by speedy repentance to avert the judgments that are impendent.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70462</idno><idno type="EEBO-CITATION">12609598</idno>
+  <idno type="VID">64315</idno>
+  <idno type="EEBO-PROQUEST">2240960865</idno>
+  
+            <idno type="STC">Wing L2246</idno>
+            <idno type="STC">ESTC R20260</idno>
+            <idno type="OCLC">12609598</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A70462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64315)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 964:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lillys strange and wonderful prognostication being a relation of many universal accidents that will come to pass in this year, 1681, according to the significations of the celestial bodies, as well in this our English nation, as in parts beyond the seas : with a sober caution to all by speedy repentance to avert the judgments that are impendent.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Reprinted for George Foster and are to be sold at his shop ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>Attributed to William Lilly. cf. NUC pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+               <term type="topical_term">Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64315:1"/>
+            <pb facs="tcp:64315:1"/>
+            <p>LILLYS Strange and Wonderful Prognostication: Being a Relation of many Universal accidents that will come to pass in this Year, 1681.</p>
+            <p>According to the SIGNIFICATIONS OF THE CELESTIAL BODIES, As well in this our <hi>English</hi> Nation, as in parts beyond the Seas: With a sober Caution to all by speedy Repentance to avert the Judgments that are im<g ref="char:EOLhyphen"/>pendent.</p>
+            <p>
+               <hi>DƲBLIN,</hi> Reprinted for <hi>George Foster</hi> and are to be sold at his <hi>Shop</hi> in <hi>Skinner-Row,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64315:2"/>
+            <pb n="3" facs="tcp:64315:2"/>
+            <head>
+               <hi>Lilly's</hi> Strange and Wonderful Progno<g ref="char:EOLhyphen"/>stication &amp;c.</head>
+            <p>
+               <hi>MAny and dreadful are the Judgments that have been inflicted upon this sinful Nation, therefore we ought to humble our selves before the great God of all the Earth who yet may be intreated to turn a side his wrath, and avert the evil he has just cause to inflict upon us: Nay when, we consider his great deleverances, how can we but say,</hi> That He has been a God of Mercy, slow to Anger, and of great goodness, abundantly pardoning transgression and sin, where there is the least impress of Repentance. <hi>Then since the superior Constellations or Planets, with many other Configurations of the Heavens have ever since the Cre<g ref="char:EOLhyphen"/>ation of the Ʋniverse been as the book of the Almighty set open for us to read his Wonders in, and to own his Omni<g ref="char:EOLhyphen"/>potence, let us hearken first what the greatest</hi> Astrologer <hi>of our age in his prophetick Judgment on this ensuing Year</hi> 1681 <hi>does prognosticate and assure us will come to pass.</hi>
+            </p>
+            <p>He affirmeth that when <hi>Jupiter</hi> in the Figure, or most excellent position of <hi>Mercury,</hi> elevated where that Pla<g ref="char:EOLhyphen"/>net has most dignity, though in opposition to his own, it does prognosticate as yet Tranquility and a right un<g ref="char:EOLhyphen"/>derstanding of affairs amongst the Counsels of this Na<g ref="char:EOLhyphen"/>tion, and that the Nobility and Magistracy of the King<g ref="char:EOLhyphen"/>dom shall consult for the best, and continue for the most part firm to their trusts, and that there shall be a settle<g ref="char:EOLhyphen"/>ment
+<pb n="4" facs="tcp:64315:3"/> of the publick Affairs beyond the vulgar expecta<g ref="char:EOLhyphen"/>tion; and that they that have been formerly of no esteem, shall be advanced to great honour by reason of their good conduct in affairs; and that the King will be pleas<g ref="char:EOLhyphen"/>ed to condescend to the advancement of such as their deserts shall raise, and have a right understanding with his people and truly Loyal Subjects; but remove all e<g ref="char:EOLhyphen"/>vil Counsel, and much diins<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ourage such as seek to raise Dissentions and Evil Reports in and of the Government, and in some measure hazard his own Interest for the safety and good of the publick.</p>
+            <p>The positions of <hi>Saturn</hi> to <hi>Mercury</hi> in the eleventh House, denotes that there will happen some division, and that many Friends w ll fall at Variance and many have mistrust of each other, so that hot d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>spute: in many places are likely to arise, and animosities lye brooding in their breasts, the which may be much prejudicial to some notable underhand Affairs intended; many vain and needless Fears in this year shall be augmen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by such as thirst after Innovation <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd change in Government but in a short time they shall be dispersed; Many sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll repine and cavel at and against the Decres and actions of Authority and the Pop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sh party use their utmost endea<g ref="char:EOLhyphen"/>vours to promote their declining Cause; but Heaven will frustrate their most evil Designs and make them fruitless. Nay, they wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l go so far as once more to at<g ref="char:EOLhyphen"/>tempt the Invalidating the Kings Evidence, but fall without success; Then let the great City of <hi>London</hi> be<g ref="char:EOLhyphen"/>ware least Sedicious agents <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pread false Rumors within her Walls, and endeavour to draw the hearts of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, from their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue obedience; which if it should take effect,
+<pb n="5" facs="tcp:64315:3"/> which Heaven prevent, it would cause a Jealousie be<g ref="char:EOLhyphen"/>tween Prince and people, whilst our adversary or com<g ref="char:EOLhyphen"/>mon Enemy would gain advantage thereby, and per<g ref="char:EOLhyphen"/>haps it might be a great help to the pernicious Designs they have on foot.</p>
+            <p>By the many Eclipses of Both Luminaries that have happened in these two years past, it is probably Conje<g ref="char:EOLhyphen"/>ctured, that several strange events are prognasticated: <hi>Mars</hi> and <hi>Venus</hi> being Rulers of the spring Quarter, that there will be Wars and Tumults in many places of <hi>Europe;</hi> and that mens minds will be strangely altered, several being Imprisoned for their Illegal proceedings; and ma<g ref="char:EOLhyphen"/>ny shall be tryed and brought to their just punishments: Some shall dye upon Scaffolds, and others upon Gibbets. The Eyes of Authority will now be open, and no longer deceived by feigned pretences. Many losses at Sea and Land, by reason of Shipwrack and Diseases: Among Cattle shall happen surfeits, Agues, Dropsies, Consump<g ref="char:EOLhyphen"/>tions, and Feavors, shall be very frequent this Year, and many shall dye; and several great Changes shall happen both in States and Empires.</p>
+            <p>
+               <hi>Thus have we given you a just and particular Account of many things which the Supperior Orbs do <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ictate shall come to pass in the ensuing Year. And now I shall think it neces<g ref="char:EOLhyphen"/>sary to lay open to your view, the Causes, Effects, and prodi<g ref="char:EOLhyphen"/>dious Consequen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of the late Commet, or Blazing Star, whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h was seen in the</hi> South-West, <hi>one the</hi> 11th. <hi>of</hi> De<g ref="char:EOLhyphen"/>cember, 1680.</p>
+            <div type="part">
+               <pb n="6" facs="tcp:64315:4"/>
+               <head>A Description of the late <hi>Comet.</hi>
+               </head>
+               <p>THe first appearance of it was in the Sign <hi>Sagita<g ref="char:EOLhyphen"/>rius,</hi> or the Latter end of <hi>Scorpio,</hi> when we had Advice of it from <hi>Falmouth</hi> in the <hi>London</hi> Gazette, about the begining of <hi>November,</hi> and since it hath past <hi>Sagi<g ref="char:EOLhyphen"/>tarius,</hi> and is now in the sign <hi>Capricorn,</hi> about the 23 Degree, for it was observed on the 12th. of <hi>December</hi> by a very worthy person, to be about five degrees of <hi>Capricorn,</hi> and it's diuinal Motion about 1 Deg. 30 mi<g ref="char:EOLhyphen"/>nutes and by the Addition of it's diurnal motion, it reach<g ref="char:EOLhyphen"/>es to, the 23d. as aforesaid at the time of writing, being 24th. of <hi>December,</hi> the Star hath about 10 Deg. North-Latitude and about the bigness of a Star of the fourth Magnitude with a Stream or Blaze pointing Easterly of about 60 Degrees in length, the Star of a P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le Lean<g ref="char:EOLhyphen"/>er color and also the stream or Blaze by way of Judgment according to Art, there are two things to be considered. First the places of the <hi>Comet</hi> in the Zodiack; secondly, where the stream points. To <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he first, I do believe it hath past part of <hi>Scorpio</hi> and all <hi>Sagitarius,</hi> therefore let part of <hi>France,</hi> and part of <hi>Germany,</hi> and <hi>Spain</hi> look to it for they either offensively or defensively shall batter them<g ref="char:EOLhyphen"/>selves or some other people, and inasmuch as it is got<g ref="char:EOLhyphen"/>ten into Capricorn, I pray God keep the Dominions of <hi>Great-Brittain</hi> in peace, because under <hi>Capricorn</hi> is the North part of <hi>Scotland,</hi> for it is much to be feared that
+<pb n="7" facs="tcp:64315:4"/> the Scots may once more Rebel against <hi>England,</hi> and I must f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rther take a Cognisance of its passing <hi>Sa<g ref="char:EOLhyphen"/>gita ius</hi> a sign opposite to <hi>Londons Ascendant,</hi> where that great Conjunction fell of <hi>Saturn</hi> and <hi>Jupiter</hi> in the yeare 1663. From which Mr. <hi>Richard Edlin</hi> predicted that great Plague which happened in 1665. In short, <hi>I</hi> fear <hi>England,</hi> but more especially <hi>London</hi> will be incident to an infectious <hi>Ayre,</hi> from thence proceeds raging Pe<g ref="char:EOLhyphen"/>stilential Diseases, Rumours and Real Wars, and home bred <hi>Divisions,</hi> poisoning, open and private Murders let <hi>England</hi> beware of Flatterers, and treat its Neigh<g ref="char:EOLhyphen"/>bours in a posture of Defence, to conclude this part, let the Inhabitants of <hi>London</hi> prepare for death, for indeed a plague is threatened, and God keep back the fury of bloody minded men.</p>
+               <p>Then considering that the point at its disappearing tended south-east, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et the Inhabitants of other places prepare to feel its effects as well as we, but not so soon by way of <hi>Digression,</hi> if I consider the two great <hi>Conjun<g ref="char:EOLunhyphen"/>ctions</hi> of <hi>saturn and Iupiter,</hi> which fall in the sign <hi>Leo</hi> the <hi>Ascendant</hi> of <hi>Rome</hi> in the years 1682, and 83. I cannot but think there will be a Total dessolution of the <hi>popish</hi> power within a small time after, for I am per<g ref="char:EOLhyphen"/>swaded that the work is begun already as to the Hu<g ref="char:EOLhyphen"/>mane part and according to former Observations much after the nature as it was in one great Conjunction in Leo when Rome was taken, and the then present pope Con<g ref="char:EOLhyphen"/>signed but these Two Conjunctions being in one, and the same Sign happening in the space of one Year,
+<pb n="8" facs="tcp:64315:5"/> which configurations have not happened for the space of above 2000 years, therefore it must needs shake Rome a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d change that place in quality, and indeed these Con<g ref="char:EOLhyphen"/>junctions have relation to all the whole World<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for it is an undoubted truth that the destruction of one state is the advancing of another, and by so much may the Conqueror behold his owne Victory. The <hi>World</hi> was never always in one position, nor hardly will. The Reverend Mr. Perkins, one of the Fathers of the st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes in many places that they do not for the most part continue above five or six Hundred Years at the most without being sack't by strangers; then let the Rea<g ref="char:EOLhyphen"/>der consider whether a great part <hi>of Europe</hi> is not near great <hi>Alterations, England</hi> according to that <hi>doctrine</hi> can<g ref="char:EOLhyphen"/>not but be very sensible <hi>of</hi> the sad Effects, I shal <hi>now</hi> conclude with this <hi>Astrological prediction.</hi>
+               </p>
+               <p>
+                  <hi>That within this fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Years all</hi> Europe <hi>shall go near to be up in</hi> Arms.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
